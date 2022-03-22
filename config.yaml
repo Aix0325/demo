@@ -1,0 +1,8 @@
+host: 'localhost'
+port: 3306
+database: 'anwig_com'
+user: 'root'
+password: 'root'
+table: 'wp_posts'
+
+domain: 'https://anwig.com/'
